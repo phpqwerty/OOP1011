@@ -1,10 +1,13 @@
 
 public class Person {
-	double height;
-	double weight;
+	
+	float height;
+	float weight;
+	
+
 	//constructor
 	public Person(){
-		this.height = 6;
+		this.height=6;
 		this.weight = 200;
 	}
 	
